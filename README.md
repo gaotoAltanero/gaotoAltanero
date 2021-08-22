@@ -1,1 +1,2 @@
-Holasoy un Altanero que viene a  aprender 
+
+Hola soy un Altanero que viene aprender
